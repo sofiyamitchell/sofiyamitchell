@@ -1,0 +1,10 @@
+print("The starting list is num = [1,2,3,4,5,6]")
+num = [1,2,3,4,5,6]
+print("The append method can take one or more elements as input and appends them into the list." )
+print("The function num.append(3) will add 3 to the end of the list to become num = [1,2,3,4,5,6,3]")
+print("If you append multiple elements they will be added as one element")
+print("For example num.append([3,4]) will become num = [1,2,3,4,5,6,[3,4]]")
+print("The length becomes one greater")
+print("The extend method also takes one or more elements as a input but it adds each as an individual element")
+print("For example, num.extend([3,4]) will become num = [1,2,3,4,5,6,3,4]")
+print("The length becomes however many elements added greater")

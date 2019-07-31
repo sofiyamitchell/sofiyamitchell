@@ -1,0 +1,30 @@
+body{
+  background-color: lightcyan;
+  font-family:"Lucida Console", monospace
+}
+h2,h3,h4{
+  color:pink;
+  font-family:"Lucida Console", monospace
+}
+button{
+  background-color:white;
+  color:pink;
+  border: none;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  font-family:"Lucida Console", monospace
+}
+#abtmebtn{
+  background-color:white;
+  color:pink;
+  border: none;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  font-family:"Lucida Console", monospace
+}
